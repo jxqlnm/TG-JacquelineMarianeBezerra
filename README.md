@@ -58,9 +58,7 @@ Minha experiência acadêmica também foi enriquecida por meio da metodologia de
 # Software Rendimento Escolar - VAPT
 
 <p align="center">
-      <img src="![Uploading logo-BuzzTech.png…]()
-![logo-BuzzTech](https://github.com/user-attachments/assets/64428466-9ffe-4851-b221-431b77b303ac)
-" alt="logo da Buzz Tech" width="200">
+      <img src="logo-BuzzTech.png" alt="logo da Buzz Tech" width="200">
       <h2 align="center"> Buzz Tech</h2>
       Programa Desktop em Java que automatize o controle de atividades avaliativas para professores de uma escola estadual.
       Cliente: FATEC São José dos Campos.
