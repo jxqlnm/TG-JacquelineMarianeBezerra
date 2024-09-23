@@ -3,8 +3,7 @@
 <div align="center">
 
 
-<img src="![WhatsApp Image 2024-09-17 at 01 40 04](https://github.com/user-attachments/assets/eef892e5-bc2e-42a1-9978-f04a34e7c0ba)
-" alt="Foto de Jacqueline" width="300" height="400">
+<img src="WhatsApp Image 2024-09-16 at 13.36.24.jpeg" alt="Foto de Jacqueline" width="300" height="300">
 </div>
 
 ## Sobre mim
