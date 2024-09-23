@@ -75,6 +75,8 @@ Minha experiência acadêmica também foi enriquecida por meio da metodologia de
  **Contribuições pessoais:**
   
   Neste projeto, atuei como desenvolvedora e fui responsável por implementar O CRUD (Create, Read, Update, Delete) das entidades do projeto como "Aluno", usando um banco de dados simples (MySQL) e também atuaei na configurações de algumas telas utilizando JavaFX. 
+  
+  
   **Hard Skills:**
   
   Durante o desenvolvimento desse projeto, exercitei as seguintes hard skills:
