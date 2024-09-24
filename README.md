@@ -48,7 +48,9 @@ Minha experiência acadêmica também foi enriquecida por meio da metodologia de
 - SharePoint
 - Power Platform
 
-  ## Meus Projetos
+ 
+ 
+ ## Meus Projetos
 
 <details>
   
