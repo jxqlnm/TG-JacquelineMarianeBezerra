@@ -86,7 +86,7 @@ Minha experiência acadêmica também foi enriquecida por meio da metodologia de
   * JavaFX
   * JavaFX Scene Builder
 
-    **Soft Skills:**
+**Soft Skills:**
 
 Durante este projeto, desenvolvi importantes soft skills, como <ins>adaptabilidade</ins>, <ins>resiliência</ins> e <ins>trabalho em equipe</ins>. Como foi meu primeiro projeto de API, me integrei a uma equipe já entrosada e com um ritmo estabelecido, o que exigiu flexibilidade para acompanhar o grupo e colaborar de forma eficaz. Essa experiência também fortaleceu minha <ins>comunicação</ins>, permitindo uma troca mais fluida de ideias e alinhamento constante com a equipe.
 
