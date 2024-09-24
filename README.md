@@ -61,7 +61,8 @@ Minha experiência acadêmica também foi enriquecida por meio da metodologia de
       <img src="logo-BuzzTech.png" alt="logo da Buzz Tech" width="200">
       <h2 align="center"> Buzz Tech</h2>
       Programa Desktop em Java que automatize o controle de atividades avaliativas para professores de uma escola estadual.
-      Cliente: FATEC São José dos Campos.
+  
+   Cliente: FATEC São José dos Campos.
 
   [GitHub do Projeto](https://github.com/BuzzTech-API/API_ADS_2SEMESTRE_2023.1) 
   
