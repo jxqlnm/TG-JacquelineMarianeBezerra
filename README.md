@@ -45,7 +45,6 @@ Minha experiência acadêmica foi enriquecida pela metodologia de Aprendizagem p
 - Power Apps
 - Power Platform
 - Power Automate
-- Automation Anywhere
 
 ## Meus Projetos
 
