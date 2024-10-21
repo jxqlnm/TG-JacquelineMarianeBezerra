@@ -42,8 +42,10 @@ Minha experiência acadêmica foi enriquecida pela metodologia de Aprendizagem p
 - SQL
 
 ### Outras Tecnologias
-- SharePoint
+- Power Apps
 - Power Platform
+- Power Automate
+- Automation Anywhere
 
 ## Meus Projetos
 
