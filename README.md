@@ -55,6 +55,12 @@ Minha experiência acadêmica foi enriquecida pela metodologia de Aprendizagem p
 
   <h2 align="center">VAPT</h2>
   Programa Desktop em Java para automatizar o controle de atividades avaliativas para professores de uma escola estadual.
+  
+  - Desafio Proposto:
+    O problema apresentado envolvia a necessidade de disponibilizar ao professor um aplicativo desktop em Java, que permitisse o gerenciamento eficiente das turmas e alunos de uma escola.
+
+  - Solução:
+    Como solução para o problema, foi acordado com o cliente que minha equipe desenvolveria o WeClass, um aplicativo de uso exclusivo do docente, no qual ele poderia criar tarefas, controlar as entregas e     monitorar o desempenho da turma e dos alunos.
 
   - **Cliente**: FATEC São José dos Campos
   - **Professor responsável**: Giuliano Bertoti
@@ -120,6 +126,12 @@ Atuei como desenvolvedora, implementando o CRUD (Create, Read, Update, Delete) d
 
   <h2 align="center">Gestor de Projetos</h2>
   Plataforma com foco na facilidade e dinamicidade dos processos burocráticos empresariais. O objetivo principal foi garantir uma interface simples e intuitiva para usuários com diferentes níveis de conhecimento técnico, otimizando o rendimento operacional e a experiência do usuário.
+
+  - Desafio Proposto:
+O problema apresentado envolvia a necessidade de disponibilizar uma plataforma web que permitisse à empresa gerenciar, monitorar e documentar cada etapa de seus processos regulatórios.
+
+ - Solução:
+Como solução, a equipe desenvolveu uma interface de usuário intuitiva e amigável, oferecendo fácil navegação pela plataforma e permitindo aos usuários gerenciar todos os seus processos regulatórios, monitorá-los em tempo real, documentar todas as etapas desses processos, acompanhar os prazos e gerar relatórios detalhados.
  
   - **Cliente**: Ionic Health
   - **Professor responsável**: Fernando Massanori e Cláudio de Lima.
@@ -174,6 +186,12 @@ Atuei como desenvolvedora, implementando o CRUD (Create, Read, Update, Delete) d
 
   <h2 align="center">Orca</h2>
   O projeto desenvolvido durante o quarto semestre do curso teve como empresa parceira a SIATT. O desafio proposto foi desenvolver um portal que solucionasse os problemas de coordenação e agendamento de reuniões levando em consideração diferentes times, formatos (presencial, online, híbrido) e disponibilidades.
+  
+  - Desafio Proposto:
+O desafio proposto foi desenvolver um portal que solucionasse os problemas de coordenação e agendamento de reuniões levando em consideração diferentes times, formatos (presencial, online, hibrido) e disponibilidades.
+
+ - Solução:
+A proposta de solução foi o desenvolvimento de um portal web intuitivo e funcional, capaz de agendar reuniões de diferentes categorias e em diferentes níveis de permissão, automatizando o processo e reduzindo o tempo gasto na atividade. Além disso, o portal oferece um formulário pré-preenchido para as atas, permitindo que os participantes registrem facilmente os pontos discutidos e as decisões tomadas durante o encontro.
 
   - **Cliente**: SIATT.
   - **Professor responsável**: Fabiano Sabha e Juliana Pasquini.
@@ -234,6 +252,12 @@ Atuei principalmente na parte de backend, implementando as funcionalidades que e
 <h2 align="center">ClimaMonitor</h2>
 
 O projeto que está sendo desenvolvido durante o quinto semestre tem como empresa parceira a Kersys. O objetivo do ClimaMonitor é criar um aplicativo para auxiliar produtores rurais no acompanhamento do histórico de variações climáticas de suas lavouras. A aplicação permite que os usuários cadastrem pontos específicos para monitorar, visualizando gráficos de pluviometria e temperatura a partir de uma data informada até a data atual. Além disso, oferece dados consolidados por ano ou mês e emite alertas em situações climáticas críticas.
+
+ - Desafio Proposto:
+Desenvolver um aplicativo que permite acompanhar o histórico das informações climáticas de uma determinada lavoura ou local cadastrado.
+
+ - Solução:
+A proposta de solução foi o desenvolvimento de um aplicativo mobile que permite aos usuários cadastrar seus pontos e acompanhar via gráficos a variação da pluviometria e da temperatura, emitindo notificações e alertas em caso de situações críticas.
 
 - **Cliente**: Kersys
 - **Professor responsável**: Gerson da Penha e Jean Costa
