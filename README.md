@@ -60,7 +60,7 @@ Minha experiência acadêmica foi enriquecida pela metodologia de Aprendizagem p
     O problema apresentado envolvia a necessidade de disponibilizar ao professor um aplicativo desktop em Java, que permitisse o gerenciamento eficiente das turmas e alunos de uma escola.
 
   - Solução:
-    Como solução para o problema, foi acordado com o cliente que minha equipe desenvolveria o WeClass, um aplicativo de uso exclusivo do docente, no qual ele poderia criar tarefas, controlar as entregas e     monitorar o desempenho da turma e dos alunos.
+    Como solução para o problema, foi acordado com o cliente que minha equipe desenvolveria o VAPT, um aplicativo de uso exclusivo do docente, no qual ele poderia criar tarefas, controlar as entregas e     monitorar o desempenho da turma e dos alunos.
 
   - **Cliente**: FATEC São José dos Campos
   - **Professor responsável**: Giuliano Bertoti
