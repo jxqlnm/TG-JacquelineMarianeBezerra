@@ -56,13 +56,16 @@ Minha experiência acadêmica foi enriquecida pela metodologia de Aprendizagem p
   <h2 align="center">VAPT</h2>
   Programa Desktop em Java para automatizar o controle de atividades avaliativas para professores de uma escola estadual.
   
-  - Desafio Proposto:
-    O problema apresentado envolvia a necessidade de disponibilizar ao professor um aplicativo desktop em Java, que permitisse o gerenciamento eficiente das turmas e alunos de uma escola.
+  <h3>Desafio Proposto</h3>
+
+O professor enfrentava dificuldades no gerenciamento das turmas e no acompanhamento do desempenho dos alunos devido a um portal educacional limitado e instável. Esse sistema obsoleto prejudicava a organização das atividades escolares, tornando o processo de monitoramento e análise de desempenho dos alunos ineficiente. O desafio proposto consistia em desenvolver um aplicativo desktop em Java, que oferecesse ao professor uma ferramenta robusta e intuitiva para gerenciar turmas, monitorar o progresso dos alunos e melhorar a gestão acadêmica de forma eficaz.
+
 
   - Solução:
     Como solução para o problema, foi acordado com o cliente que minha equipe desenvolveria o VAPT, um aplicativo de uso exclusivo do docente, no qual ele poderia criar tarefas, controlar as entregas e     monitorar o desempenho da turma e dos alunos.
 
   - **Cliente**: FATEC São José dos Campos
+  - **Área de Atuação:** Educação superior tecnológica.
   - **Professor responsável**: Giuliano Bertoti
 
   [GitHub do Projeto](https://github.com/BuzzTech-API/API_ADS_2SEMESTRE_2023.1)
@@ -125,15 +128,19 @@ Atuei como desenvolvedora, implementando o CRUD (Create, Read, Update, Delete) d
   ### API ADS 3º Semestre - Gestor de Projetos - Mirage Group
 
   <h2 align="center">Gestor de Projetos</h2>
-  Plataforma com foco na facilidade e dinamicidade dos processos burocráticos empresariais. O objetivo principal foi garantir uma interface simples e intuitiva para usuários com diferentes níveis de conhecimento técnico, otimizando o rendimento operacional e a experiência do usuário.
+  Plataforma Desktop Web com foco na facilidade e dinamicidade dos processos burocráticos empresariais. O objetivo principal foi garantir uma interface simples e intuitiva para usuários com diferentes níveis de conhecimento técnico, otimizando o rendimento operacional e a experiência do usuário.
 
-  - Desafio Proposto:
-O problema apresentado envolvia a necessidade de disponibilizar uma plataforma web que permitisse à empresa gerenciar, monitorar e documentar cada etapa de seus processos regulatórios.
+ <h3>Desafio Proposto</h3>
+
+A Ionic Health enfrentava dificuldades no rastreamento e na gestão eficiente de suas atividades, especialmente no que diz respeito ao cumprimento dos processos regulatórios. A empresa precisava de uma solução que centralizasse e organizasse essas informações de forma clara e acessível. O desafio proposto foi desenvolver uma plataforma web unificada, que permitisse à Ionic Health gerenciar, monitorar e documentar cada etapa dos processos regulatórios de maneira eficiente, garantindo maior conformidade e transparência nas operações.
+
 
  - Solução:
 Como solução, a equipe desenvolveu uma interface de usuário intuitiva e amigável, oferecendo fácil navegação pela plataforma e permitindo aos usuários gerenciar todos os seus processos regulatórios, monitorá-los em tempo real, documentar todas as etapas desses processos, acompanhar os prazos e gerar relatórios detalhados.
  
   - **Cliente**: Ionic Health
+  - **Área de atuaçãoo**:A Ionic Health atua no setor de tecnologia para a saúde, oferecendo soluções inovadoras que viabilizam a assistência médica por meio da automação e integração de processos. A empresa desenvolve tecnologias remotas e plataformas de relatórios, proporcionando ferramentas eficientes para otimizar a gestão da saúde e melhorar a qualidade do atendimento médico.
+
   - **Professor responsável**: Fernando Massanori e Cláudio de Lima.
 
     [GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_3sem)
@@ -169,13 +176,13 @@ Como solução, a equipe desenvolveu uma interface de usuário intuitiva e amig�
 
 **Soft Skills desenvolvidas:**
 
-- **Colaboração:** Trabalhei em um time muito unido, o que facilitou a troca de ideias e a cooperação nas tarefas. A boa relação com os colegas ajudou a criar um ambiente de trabalho leve e produtivo.
+**Colaboração**: Trabalhei em um time muito unido, o que facilitou a troca de ideias e a cooperação nas tarefas. A boa relação com os colegas ajudou a criar um ambiente de trabalho leve e produtivo.
 
-- **Comunicação eficaz:** Após experiências anteriores desafiadoras, melhorei minha capacidade de comunicação com o grupo. Mantive um diálogo aberto e frequente com os colegas, o que resultou em alinhamentos mais rápidos e eficientes.
+**Comunicação eficaz**: No grupo anterior, enfrentei dificuldades relacionadas a brigas e desentendimentos, o que impactou negativamente a comunicação. No entanto, no novo grupo, consegui aplicar as lições aprendidas e melhorei significativamente minha capacidade de comunicação. Mantive um diálogo aberto e frequente com os colegas, resultando em alinhamentos mais rápidos e eficientes.
 
-- **Trabalho em equipe:** A amizade com os integrantes permitiu que as discussões fossem mais fluídas, o que facilitou a resolução conjunta de problemas e a busca por soluções criativas para o projeto.
+**Trabalho em equipe**: A amizade com os integrantes do novo grupo permitiu que as discussões fossem mais fluídas, sem os conflitos do passado. Isso facilitou a resolução conjunta de problemas e a busca por soluções criativas para o projeto.
 
-- **Empatia:** O ambiente de confiança mútua me ajudou a entender melhor as perspectivas dos outros membros, o que fortaleceu a cooperação e garantiu um trabalho harmonioso.
+**Empatia**: O ambiente de confiança mútua me ajudou a entender melhor as perspectivas dos outros membros, o que fortaleceu a cooperação e garantiu um trabalho harmonioso, sem os conflitos que haviam ocorrido anteriormente.
 
 </details>
 
@@ -188,12 +195,14 @@ Como solução, a equipe desenvolveu uma interface de usuário intuitiva e amig�
   O projeto desenvolvido durante o quarto semestre do curso teve como empresa parceira a SIATT. O desafio proposto foi desenvolver um portal que solucionasse os problemas de coordenação e agendamento de reuniões levando em consideração diferentes times, formatos (presencial, online, híbrido) e disponibilidades.
   
   - Desafio Proposto:
-O desafio proposto foi desenvolver um portal que solucionasse os problemas de coordenação e agendamento de reuniões levando em consideração diferentes times, formatos (presencial, online, hibrido) e disponibilidades.
+A empresa precisava lidar com equipes cada vez maiores no contexto pós-pandemia e apresentava dificuldades para coordenar o agendamento de reuniões. A falta de uma plataforma unificada para o gerenciamento das reuniões resultava em desorganização e tempo excessivo gasto em processos manuais. O desafio proposto foi desenvolver um portal que solucionasse os problemas de coordenação e agendamento de reuniões levando em consideração diferentes times, formatos (presencial, online, hibrido) e disponibilidades.
 
- - Solução:
+- Solução:
 A proposta de solução foi o desenvolvimento de um portal web intuitivo e funcional, capaz de agendar reuniões de diferentes categorias e em diferentes níveis de permissão, automatizando o processo e reduzindo o tempo gasto na atividade. Além disso, o portal oferece um formulário pré-preenchido para as atas, permitindo que os participantes registrem facilmente os pontos discutidos e as decisões tomadas durante o encontro.
 
   - **Cliente**: SIATT.
+  - **Área de Atuação**: A empresa se especializa na integração de sistemas de alta complexidade tecnológica, oferecendo soluções inovadoras para atender às demandas dos setores de defesa e aeroespacial. Com foco em eficiência e precisão, a empresa desenvolve e implementa tecnologias avançadas que suportam operações críticas e desafios estratégicos dessas indústrias.
+
   - **Professor responsável**: Fabiano Sabha e Juliana Pasquini.
 
   [GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_4sem)
@@ -254,12 +263,14 @@ Atuei principalmente na parte de backend, implementando as funcionalidades que e
 O projeto que está sendo desenvolvido durante o quinto semestre tem como empresa parceira a Kersys. O objetivo do ClimaMonitor é criar um aplicativo para auxiliar produtores rurais no acompanhamento do histórico de variações climáticas de suas lavouras. A aplicação permite que os usuários cadastrem pontos específicos para monitorar, visualizando gráficos de pluviometria e temperatura a partir de uma data informada até a data atual. Além disso, oferece dados consolidados por ano ou mês e emite alertas em situações climáticas críticas.
 
  - Desafio Proposto:
-Desenvolver um aplicativo que permite acompanhar o histórico das informações climáticas de uma determinada lavoura ou local cadastrado.
+O cliente enfrentava dificuldades significativas em fornecer aos produtores rurais uma forma eficaz de monitorar as condições climáticas em suas áreas de cultivo. As mudanças climáticas, que afetam diretamente a produtividade agrícola, tornaram-se um desafio crescente. O problema principal estava na falta de uma solução que permitisse o monitoramento em tempo real das variações climáticas, além da incapacidade de receber alertas sobre condições extremas que poderiam prejudicar as lavouras. O desafio consistia em criar uma plataforma que fornecesse dados precisos e atualizados, permitindo que os produtores tomassem decisões informadas para mitigar os impactos adversos do clima.
 
  - Solução:
 A proposta de solução foi o desenvolvimento de um aplicativo mobile que permite aos usuários cadastrar seus pontos e acompanhar via gráficos a variação da pluviometria e da temperatura, emitindo notificações e alertas em caso de situações críticas.
 
 - **Cliente**: Kersys
+- **Área de Atuação**: Desenvolvimento de soluções de software de gestão focadas nas áreas florestais e do agronegócio, oferecendo ferramentas inovadoras para otimizar processos, aumentar a produtividade e melhorar a sustentabilidade desses setores.</p>
+
 - **Professor responsável**: Gerson da Penha e Jean Costa
 
 [GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_5_Semestre)
@@ -297,7 +308,7 @@ Estou responsável por implementar a **Navbar**, realizar alterações nos **car
 
 - **Trabalho em equipe**: A relação com os integrantes do grupo está sendo muito positiva, o que facilita a comunicação e colaboração. Após retornar ao grupo do semestre anterior, fui bem recebida, graças à amizade e confiança estabelecidas previamente.
 
-- **Gestão de tempo**: Conciliar o projeto com o novo estágio e os compromissos acadêmicos está sendo um grande desafio. Aplico técnicas de priorização para manter um ritmo produtivo em meio a uma rotina intensa.
+- **Gestão de tempo**: Conciliar o projeto com o estágio e os compromissos acadêmicos está sendo um grande desafio, principalmente neste semestre, que é o mais difícil até agora. Além das matérias exigirem um esforço significativo, o estágio tem me ensinado muito, mas também tem gerado exaustão devido à carga de trabalho. Mesmo com o cansaço, venho aplicando técnicas de priorização de tarefas e organização para conseguir dar conta da rotina intensa, mantendo um ritmo produtivo e focado.
 
 - **Adaptabilidade**: Mudar de área, atuando no frontend, exige uma rápida adaptação e aprendizado. Além disso, preciso lidar com as mudanças de grupo e manter a produtividade ao retornar ao time anterior.
 
