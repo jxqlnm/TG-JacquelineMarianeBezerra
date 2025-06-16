@@ -367,8 +367,6 @@ Desenvolvemos uma plataforma SPA em Vue.js que:
 
 - ChromaDB: Banco vetorial para armazenamento e consulta de embeddings.
 
-- Docker & Docker Compose: Containerização de serviços backend e frontend.
-
 - Jira: Gestão ágil de backlog, sprints e burndown.
 
 - it/GitHub Flow: Versionamento, pull requests e tags de sprint.
@@ -410,5 +408,5 @@ Transformei minha maior dificuldade pessoal em ponto forte, garantindo que todas
 Equilibrar as demandas do TG, estágio na Embraer e disciplinas acadêmicas exigiu priorização rigorosa e organização de tarefas, mantendo a produtividade mesmo sob alta carga de trabalho.
 
 - **Adaptabilidade**:
-Engajei-me profundamente na mudança de área no 5º semestre e, ao final do 6º, migrei de estagiária na Embraer para Desenvolvedora Júnior na Climatempo, demonstrando flexibilidade, aprendizado acelerado e capacidade de adaptação a novos desafios e ambientes de trabalho.
+Engajei-me profundamente na mudança de área no 5º semestre e, ao final do 6º, migrei de estagiária na Embraer para Desenvolvedora Júnior III na Climatempo, demonstrando flexibilidade, aprendizado acelerado e capacidade de adaptação a novos desafios e ambientes de trabalho.
 
