@@ -174,15 +174,11 @@ Como solução, a equipe desenvolveu uma interface de usuário intuitiva e amig�
 
   Proficiência: 6/10.
 
-**Soft Skills desenvolvidas:**
+ **Soft Skills desenvolvidas:**
+  - **Comunicação:** Enfrentei dificuldades na migração de Java para TypeScript, demandando alinhamento de conceitos e padrões.
+  - **Adaptação:** Aprendi rapidamente a sintaxe e as boas práticas de TypeScript, com suporte ativo da equipe.
+  - **Resolução de problemas:** Incentivei colegas que também tinham dificuldade a procurar ajuda e compartilhar conhecimento, promovendo um ambiente colaborativo.
 
-**Colaboração**: Trabalhei em um time muito unido, o que facilitou a troca de ideias e a cooperação nas tarefas. A boa relação com os colegas ajudou a criar um ambiente de trabalho leve e produtivo.
-
-**Comunicação eficaz**: No grupo anterior, enfrentei dificuldades relacionadas a brigas e desentendimentos, o que impactou negativamente a comunicação. No entanto, no novo grupo, consegui aplicar as lições aprendidas e melhorei significativamente minha capacidade de comunicação. Mantive um diálogo aberto e frequente com os colegas, resultando em alinhamentos mais rápidos e eficientes.
-
-**Trabalho em equipe**: A amizade com os integrantes do novo grupo permitiu que as discussões fossem mais fluídas, sem os conflitos do passado. Isso facilitou a resolução conjunta de problemas e a busca por soluções criativas para o projeto.
-
-**Empatia**: O ambiente de confiança mútua me ajudou a entender melhor as perspectivas dos outros membros, o que fortaleceu a cooperação e garantiu um trabalho harmonioso, sem os conflitos que haviam ocorrido anteriormente.
 
 </details>
 
