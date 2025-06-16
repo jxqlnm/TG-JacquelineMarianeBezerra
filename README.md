@@ -320,7 +320,7 @@ Estou responsável por implementar a **Navbar**, realizar alterações nos **car
 
 Empresa: DOM Rock
 
-Área de Atuação: Educação superior tecnológica
+Área de Atuação: Plataformas de inteligência operacional 
 
 Professores responsáveis: Eduardo Sakaue e José Walmir Gonçalves Duque
 
@@ -329,70 +329,73 @@ Dom Rock é uma empresa brasileira de tecnologia sediada em São José dos Campo
 
 Repositório GitHub: API_MirageGroup_6_Semestre
 
-Desafio Proposto
+**Desafio Proposto**
+
 Criar uma aplicação web que permita:
 
-Enviar um mesmo prompt simultaneamente a 2 LLMs via API.
+- Enviar um mesmo prompt simultaneamente a 2 LLMs via API.
 
-Exibir lado a lado as duas respostas geradas.
+- Exibir lado a lado as duas respostas geradas.
 
-Oferecer itens de avaliação individual para cada resposta.
+- Oferecer itens de avaliação individual para cada resposta.
 
-Apresentar uma escala final de comparação, permitindo ao usuário escolher a melhor resposta e justificar sua escolha.
+- Apresentar uma escala final de comparação, permitindo ao usuário escolher a melhor resposta e justificar sua escolha.
 
-Armazenar todos os prompts, respostas, avaliações e justificativas em banco de dados, para uso em futuros retreinamentos de LLMs.
+- Armazenar todos os prompts, respostas, avaliações e justificativas em banco de dados, para uso em futuros retreinamentos de LLMs.
 
-Solução
+**Solução**
 Desenvolvemos uma plataforma SPA em Vue.js que:
 
-Recebe o prompt do usuário e dispara requisições paralelas a dois modelos (DeepSeek e Qwen) via LangChain.
+- Recebe o prompt do usuário e dispara requisições paralelas a dois modelos (DeepSeek e Qwen) via LangChain.
 
-Exibe as duas respostas em cards lado a lado, com componentes de avaliação (stars, checklist).
+- Exibe as duas respostas em cards lado a lado, com componentes de avaliação (stars, checklist).
 
-Após avaliação individual, mostra uma escala de comparação para seleção da melhor resposta e campo de justificativa.
+- Após avaliação individual, mostra uma escala de comparação para seleção da melhor resposta e campo de justificativa.
 
-Persiste todas as interações em MongoDB e ChromaDB (vetorial), permitindo pipelines de RLHF (Reinforcement Learning from Human Feedback) para aprimorar continuamente os modelos.
+- Persiste todas as interações em MongoDB e ChromaDB (vetorial), permitindo pipelines de RLHF (Reinforcement Learning from Human Feedback) para aprimorar continuamente os modelos.
 
-Tecnologias Utilizadas
-Python: Backend principal, integração com frameworks de IA.
+**Tecnologias Utilizadas**
 
-LLMs (DeepSeek & Qwen): Modelos de linguagem de última geração para geração de respostas.
+- Python: Backend principal, integração com frameworks de IA.
 
-LangChain: Orquestração e integração dos LLMs com o aplicativo.
+- LLMs (DeepSeek & Qwen): Modelos de linguagem de última geração para geração de respostas.
 
-Vue.js: SPA responsiva e interativa para avaliação de respostas.
+- LangChain: Orquestração e integração dos LLMs com o aplicativo.
 
-ChromaDB: Banco vetorial para armazenamento e consulta de embeddings.
+- Vue.js: SPA responsiva e interativa para avaliação de respostas.
 
-Docker & Docker Compose: Containerização de serviços backend e frontend.
+- ChromaDB: Banco vetorial para armazenamento e consulta de embeddings.
 
-Jira: Gestão ágil de backlog, sprints e burndown.
+- Docker & Docker Compose: Containerização de serviços backend e frontend.
 
-Git/GitHub Flow: Versionamento, pull requests e tags de sprint.
+- Jira: Gestão ágil de backlog, sprints e burndown.
 
-Contribuições pessoais:
+- it/GitHub Flow: Versionamento, pull requests e tags de sprint.
 
-Organizei e mantive o Product Backlog e o Sprint Backlog no Jira, garantindo clareza nas prioridades e visibilidade do progresso.
+**Contribuições pessoais**:
 
-Configurei o Burndown Chart e apresentei relatórios semanais à equipe, permitindo ajustes rápidos no planejamento.
+- Organizei e mantive o Product Backlog e o Sprint Backlog no Jira, garantindo clareza nas prioridades e visibilidade do progresso.
 
-Defini os templates de Pull Request e a estratégia de branches (feature, release, hotfix), uniformizando o fluxo de trabalho e a revisão de código.
+- Configurei o Burndown Chart e apresentei relatórios semanais à equipe, permitindo ajustes rápidos no planejamento.
 
-Conduzi cerimônias ágeis (Daily, Sprint Planning, Review e Retrospective), removendo impedimentos e mediando conflitos para manter o time alinhado.
+- Defini os templates de Pull Request e a estratégia de branches (feature, release, hotfix), uniformizando o fluxo de trabalho e a revisão de código.
 
-Intervim tecnicamente em momentos críticos (hotfixes e pair programming), garantindo que bloqueios não atrasassem a sprint.
+- Conduzi cerimônias ágeis (Daily, Sprint Planning, Review e Retrospective), removendo impedimentos e mediando conflitos para manter o time alinhado.
 
-Facilitiei a comunicação entre desenvolvimento, QA e stakeholders, promovendo transparência e construção de consenso.
+ - Intervim tecnicamente em momentos críticos (hotfixes e pair programming), garantindo que bloqueios não atrasassem a sprint.
 
-Promovi sessões de feedback construtivo, fortalecendo a colaboração e o crescimento técnico de cada membro da equipe visto que alguns aoinda não tinham tido contatato com a tecnologia.
+- Facilitiei a comunicação entre desenvolvimento, QA e stakeholders, promovendo transparência e construção de consenso.
+
+- Promovi sessões de feedback construtivo, fortalecendo a colaboração e o crescimento técnico de cada membro da equipe visto que alguns aoinda não tinham tido contatato com a tecnologia.
 
 **Soft Skills desenvolvidas:**
-**Comunicação**:
+
+- **Comunicação**:
 Transformei minha maior dificuldade pessoal em ponto forte, garantindo que todas as vozes fossem ouvidas e melhorando o alinhamento do time por meio de comunicação clara e assertiva.
 
-**Gestão de Tempo**:
+- **Gestão de Tempo**:
 Equilibrar as demandas do TG, estágio na Embraer e disciplinas acadêmicas exigiu priorização rigorosa e organização de tarefas, mantendo a produtividade mesmo sob alta carga de trabalho.
 
-**Adaptabilidade**:
+- **Adaptabilidade**:
 Engajei-me profundamente na mudança de área no 5º semestre e, ao final do 6º, migrei de estagiária na Embraer para Desenvolvedora Júnior na Climatempo, demonstrando flexibilidade, aprendizado acelerado e capacidade de adaptação a novos desafios e ambientes de trabalho.
 
