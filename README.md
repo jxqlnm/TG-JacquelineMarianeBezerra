@@ -344,6 +344,7 @@ Criar uma aplicação web que permita:
 - Armazenar todos os prompts, respostas, avaliações e justificativas em banco de dados, para uso em futuros retreinamentos de LLMs.
 
 **Solução**
+
 Desenvolvemos uma plataforma SPA em Vue.js que:
 
 - Recebe o prompt do usuário e dispara requisições paralelas a dois modelos (DeepSeek e Qwen) via LangChain.
@@ -373,6 +374,8 @@ Desenvolvemos uma plataforma SPA em Vue.js que:
 - it/GitHub Flow: Versionamento, pull requests e tags de sprint.
 
 **Contribuições pessoais**:
+
+Como Scrum Master pela primeira, realizei os sequintes desafios:
 
 - Organizei e mantive o Product Backlog e o Sprint Backlog no Jira, garantindo clareza nas prioridades e visibilidade do progresso.
 
