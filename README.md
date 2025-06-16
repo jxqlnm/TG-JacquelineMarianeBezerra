@@ -309,3 +309,82 @@ Estou responsável por implementar a **Navbar**, realizar alterações nos **car
 - **Adaptabilidade**: Mudar de área, atuando no frontend, exige uma rápida adaptação e aprendizado. Além disso, preciso lidar com as mudanças de grupo e manter a produtividade ao retornar ao time anterior.
 
 </details>
+<details> <summary>Sexto Semestre (Maio/2025)</summary>
+API ADS 6º Semestre – Avaliação de Respostas de LLMs – DOM Rock
+Data: Maio/2025
+Empresa: DOM Rock
+Área de Atuação: Educação superior tecnológica
+Professores responsáveis: Eduardo Sakaue e José Walmir Gonçalves Duque
+
+Sobre a Empresa:
+Dom Rock é uma empresa brasileira de tecnologia sediada em São José dos Campos (SP), especializada em plataformas de inteligência operacional. Com uso intensivo de IA, automação e processamento de dados, a companhia oferece soluções que otimizam processos e apoiam a tomada de decisões em grandes corporações.
+
+Repositório GitHub: API_MirageGroup_6_Semestre
+
+Desafio Proposto
+Criar uma aplicação web que permita:
+
+Enviar um mesmo prompt simultaneamente a 2 LLMs via API.
+
+Exibir lado a lado as duas respostas geradas.
+
+Oferecer itens de avaliação individual para cada resposta.
+
+Apresentar uma escala final de comparação, permitindo ao usuário escolher a melhor resposta e justificar sua escolha.
+
+Armazenar todos os prompts, respostas, avaliações e justificativas em banco de dados, para uso em futuros retreinamentos de LLMs.
+
+Solução
+Desenvolvemos uma plataforma SPA em Vue.js que:
+
+Recebe o prompt do usuário e dispara requisições paralelas a dois modelos (DeepSeek e Qwen) via LangChain.
+
+Exibe as duas respostas em cards lado a lado, com componentes de avaliação (stars, checklist).
+
+Após avaliação individual, mostra uma escala de comparação para seleção da melhor resposta e campo de justificativa.
+
+Persiste todas as interações em MongoDB e ChromaDB (vetorial), permitindo pipelines de RLHF (Reinforcement Learning from Human Feedback) para aprimorar continuamente os modelos.
+
+Tecnologias Utilizadas
+Python: Backend principal, integração com frameworks de IA.
+
+LLMs (DeepSeek & Qwen): Modelos de linguagem de última geração para geração de respostas.
+
+LangChain: Orquestração e integração dos LLMs com o aplicativo.
+
+Vue.js: SPA responsiva e interativa para avaliação de respostas.
+
+ChromaDB: Banco vetorial para armazenamento e consulta de embeddings.
+
+Docker & Docker Compose: Containerização de serviços backend e frontend.
+
+Jira: Gestão ágil de backlog, sprints e burndown.
+
+Git/GitHub Flow: Versionamento, pull requests e tags de sprint.
+
+Contribuições pessoais:
+
+Organizei e mantive o Product Backlog e o Sprint Backlog no Jira, garantindo clareza nas prioridades e visibilidade do progresso.
+
+Configurei o Burndown Chart e apresentei relatórios semanais à equipe, permitindo ajustes rápidos no planejamento.
+
+Defini os templates de Pull Request e a estratégia de branches (feature, release, hotfix), uniformizando o fluxo de trabalho e a revisão de código.
+
+Conduzi cerimônias ágeis (Daily, Sprint Planning, Review e Retrospective), removendo impedimentos e mediando conflitos para manter o time alinhado.
+
+Intervim tecnicamente em momentos críticos (hotfixes e pair programming), garantindo que bloqueios não atrasassem a sprint.
+
+Facilitiei a comunicação entre desenvolvimento, QA e stakeholders, promovendo transparência e construção de consenso.
+
+Promovi sessões de feedback construtivo, fortalecendo a colaboração e o crescimento técnico de cada membro da equipe visto que alguns aoinda não tinham tido contatato com a tecnologia.
+
+**Soft Skills desenvolvidas:**
+**Comunicação**:
+Transformei minha maior dificuldade pessoal em ponto forte, garantindo que todas as vozes fossem ouvidas e melhorando o alinhamento do time por meio de comunicação clara e assertiva.
+
+**Gestão de Tempo**:
+Equilibrar as demandas do TG, estágio na Embraer e disciplinas acadêmicas exigiu priorização rigorosa e organização de tarefas, mantendo a produtividade mesmo sob alta carga de trabalho.
+
+**Adaptabilidade**:
+Engajei-me profundamente na mudança de área no 5º semestre e, ao final do 6º, migrei de estagiária na Embraer para Desenvolvedora Júnior na Climatempo, demonstrando flexibilidade, aprendizado acelerado e capacidade de adaptação a novos desafios e ambientes de trabalho.
+
