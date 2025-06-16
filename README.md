@@ -319,7 +319,9 @@ Estou responsável por implementar a **Navbar**, realizar alterações nos **car
 <h2 align="center">DOM Rock</h2>
 
 Empresa: DOM Rock
+
 Área de Atuação: Educação superior tecnológica
+
 Professores responsáveis: Eduardo Sakaue e José Walmir Gonçalves Duque
 
 Sobre a Empresa:
