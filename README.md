@@ -11,8 +11,6 @@ Iniciei minha carreira em 2018 como estagiária de QA na DIMEP Sistemas, onde te
 
 Minha formação na FATEC São José dos Campos, pautada em Aprendizagem por Projetos Integrados, me levou a colaborar com empresas reais desde o 3º semestre, consolidando uma vivência prática que aprimora minhas skills técnicas e fortalece minha comunicação, gestão de tempo e trabalho em equipe.
 
-Minha experiência acadêmica foi enriquecida pela metodologia de Aprendizagem por Projetos Integrados, colaborando com empresas e aplicando conhecimentos adquiridos em projetos reais, o que me proporcionou uma vivência prática e transformadora.
-
 ## Contatos
 
 <p align="center">
