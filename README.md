@@ -310,8 +310,9 @@ Estou responsável por implementar a **Navbar**, realizar alterações nos **car
 
 </details>
 <details> <summary>Sexto Semestre (Maio/2025)</summary>
-API ADS 6º Semestre – Avaliação de Respostas de LLMs – DOM Rock
-Data: Maio/2025
+### API ADS 6º Semestre – Avaliação de Respostas de LLMs – DOM Rock
+<h2 align="center">DOM Rock</h2>
+
 Empresa: DOM Rock
 Área de Atuação: Educação superior tecnológica
 Professores responsáveis: Eduardo Sakaue e José Walmir Gonçalves Duque
