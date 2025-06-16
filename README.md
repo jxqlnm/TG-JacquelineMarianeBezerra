@@ -327,7 +327,7 @@ Professores responsáveis: Eduardo Sakaue e José Walmir Gonçalves Duque
 Sobre a Empresa:
 Dom Rock é uma empresa brasileira de tecnologia sediada em São José dos Campos (SP), especializada em plataformas de inteligência operacional. Com uso intensivo de IA, automação e processamento de dados, a companhia oferece soluções que otimizam processos e apoiam a tomada de decisões em grandes corporações.
 
-Repositório GitHub: API_MirageGroup_6_Semestre
+  [GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_6_Semestre)
 
 **Desafio Proposto**
 
