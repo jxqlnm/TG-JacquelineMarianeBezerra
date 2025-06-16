@@ -312,7 +312,7 @@ Estou responsável por implementar a **Navbar**, realizar alterações nos **car
 
 
 <details>
-  <summary>Sexto semestre (2024-2)</summary>
+  <summary>Sexto semestre (2025-1)</summary>
 
 ### API ADS 6º Semestre – Avaliação de Respostas de LLMs – DOM Rock
 
