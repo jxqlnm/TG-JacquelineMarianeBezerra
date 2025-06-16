@@ -312,7 +312,7 @@ Estou responsável por implementar a **Navbar**, realizar alterações nos **car
 
 
 <details>
-  <summary>Quinto Semestre (2024-2)</summary>
+  <summary>Sexto semestre (2024-2)</summary>
 
 ### API ADS 6º Semestre – Avaliação de Respostas de LLMs – DOM Rock
 
@@ -387,6 +387,16 @@ Desenvolvemos uma plataforma SPA em Vue.js que:
 - Facilitiei a comunicação entre desenvolvimento, QA e stakeholders, promovendo transparência e construção de consenso.
 
 - Promovi sessões de feedback construtivo, fortalecendo a colaboração e o crescimento técnico de cada membro da equipe visto que alguns aoinda não tinham tido contatato com a tecnologia.
+
+**Hard Skills Desenvolvidas**
+
+Python: Linguagem principal no backend, valorizada pela simplicidade e poder em IA. (Uso com ajuda para auxílio em momentos críticos.) 9/10
+
+Vue.js: Framework JavaScript progressivo para construir interfaces interativas e responsivas. (Uso com ajuda para auxílio em momentos críticos.) 7/10
+
+MongoDB: Banco de dados NoSQL para armazenar informações estruturadas e semiestruturadas do sistema. (Uso com ajuda para auxílio em momentos críticos.) 9/10
+
+LangChain: Framework para orquestrar e integrar modelos de linguagem com outras fontes de dados e ferramentas externas. (Uso com ajuda para auxílio em momentos críticos.) 7/10
 
 **Soft Skills desenvolvidas:**
 
