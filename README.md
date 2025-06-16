@@ -5,9 +5,11 @@
 </div>
 
 ## Sobre mim
-Meu nome é Jacqueline Mariane Bezerra, tenho 25 anos e estou no 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal. Minha paixão por tecnologia começou em 2017, durante a Semana Nacional de Ciência e Tecnologia (SNCT), no evento "Portas Abertas: A Matemática está em Tudo", onde atuei como apresentadora e desenvolvedora de um aplicativo mobile.
+Meu nome é Jacqueline Mariane Bezerra, tenho 25 anos e estou no 6º semestre de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal. Minha paixão por tecnologia começou em 2017, durante a Semana Nacional de Ciência e Tecnologia (SNCT), no evento "Portas Abertas: A Matemática está em Tudo", onde atuei como apresentadora e desenvolvedora de um aplicativo mobile.
 
-Iniciei minha trajetória profissional em 2018 como estagiária de QA na DIMEP Sistemas, onde testei, analisei e validei funcionalidades no produto D-SAT até 2020. Atualmente, sou estagiária na Embraer, na área de desenvolvimento de soluções, focando em análise de requisitos de software, verificação de dados relacionais e não-relacionais, além de automatização de ferramentas e KPIs. Também trabalho na otimização de planilhas, sites e sistemas de gestão, prestando suporte aos clientes internos e atuando como interface entre diferentes áreas e equipes.
+Iniciei minha carreira em 2018 como estagiária de QA na DIMEP Sistemas, onde testei, analisei e validei funcionalidades do produto D-SAT até 2020. Desde agosto de 2023 atuo como estagiária de Desenvolvimento Full Stack na Embraer, colaborando no projeto ONEPLACE SRE. Lá, desenvolvo microsserviços em NestJS/Node.js com TypeScript e Prisma ORM sobre PostgreSQL, crio e testo APIs RESTful via Postman, e configuro pipelines de CI/CD no Azure DevOps. No front-end, implemento telas em React usando React Hook Form, Zod e i18next para validação e internacionalização. Também construo automações em Python e Azure Functions, integrando Salesforce, SAP S/4HANA e Automation Anywhere, e garanto cobertura de testes com Jest e Cypress. Além disso, otimizo planilhas e sistemas internos, prestando suporte como interface entre equipes de produto, QA e operações.
+
+Minha formação na FATEC São José dos Campos, pautada em Aprendizagem por Projetos Integrados, me levou a colaborar com empresas reais desde o 3º semestre, consolidando uma vivência prática que aprimora minhas skills técnicas e fortalece minha comunicação, gestão de tempo e trabalho em equipe.
 
 Minha experiência acadêmica foi enriquecida pela metodologia de Aprendizagem por Projetos Integrados, colaborando com empresas e aplicando conhecimentos adquiridos em projetos reais, o que me proporcionou uma vivência prática e transformadora.
 
@@ -280,7 +282,15 @@ A proposta de solução foi o desenvolvimento de um aplicativo mobile que permit
 
 **Contribuições pessoais:**
 
-Estou responsável por implementar a **Navbar**, realizar alterações nos **cards**, além de desenvolver a funcionalidade que permite aos usuários marcar novos pontos diretamente no mapa.
+- Implementei a Navbar, garantindo navegação clara entre as telas do sistema.
+
+- Ajustei e estilizei os cards de informação, para exibir dados de forma mais legível e organizada.
+
+- Desenvolvi a funcionalidade de marcar novos pontos no mapa, permitindo ao usuário registrar localizações com apenas um toque.
+
+- Colaborei com o time de back-end para validar e exibir corretamente as informações vindas das APIs.
+
+- Realizei testes manuais e pequenos ajustes de UX para melhorar a experiência do usuário.
 
 **Hard Skills desenvolvidas:**
 
