@@ -26,7 +26,7 @@ Minha experiência acadêmica foi enriquecida pela metodologia de Aprendizagem p
 - Node.js
 - Java
 - JavaFX
-- TypeScript
+- Typescript
 - SQL
 - Automation Anywhere
 
@@ -36,111 +36,155 @@ Minha experiência acadêmica foi enriquecida pela metodologia de Aprendizagem p
 - Bootstrap
 - JavaScript
 - React
-- React Native
 
 ### Banco de Dados
 - MongoDB
 - SQL
-- Firebase
 
 ### Outras Tecnologias
 - Power Apps
 - Power Platform
 - Power Automate
 
----
-
 ## Meus Projetos
 
 <details>
   <summary>Segundo Semestre (2023-1)</summary>
 
-  ### API ADS 2º Semestre - Software de Rendimento Escolar - Buzz Tech
+  ### API ADS 2º Semestre - Software Rendimento Escolar - Buzz Tech
 
   <h2 align="center">VAPT</h2>
+  Programa Desktop em Java para automatizar o controle de atividades avaliativas para professores de uma escola estadual.
+  
+  <h3>Desafio Proposto</h3>
 
-  Aplicativo desktop em Java para automatizar o controle de atividades avaliativas de professores em uma escola estadual.
+O professor enfrentava dificuldades no gerenciamento das turmas e no acompanhamento do desempenho dos alunos devido a um portal educacional limitado e instável. Esse sistema obsoleto prejudicava a organização das atividades escolares, tornando o processo de monitoramento e análise de desempenho dos alunos ineficiente. O desafio proposto consistia em desenvolver um aplicativo desktop em Java, que oferecesse ao professor uma ferramenta robusta e intuitiva para gerenciar turmas, monitorar o progresso dos alunos e melhorar a gestão acadêmica de forma eficaz.
 
-  - **Desafio Proposto:** O docente enfrentava dificuldades no gerenciamento das turmas e no acompanhamento do desempenho dos alunos, devido a um sistema educacional limitado e ineficiente. A proposta era desenvolver um sistema próprio para controle de tarefas, notas e progresso dos alunos.
 
-  - **Solução:** Criamos o VAPT, um sistema desktop onde o professor pode cadastrar turmas, criar tarefas, inserir notas, acompanhar o rendimento da turma e gerar relatórios de desempenho.
+  - Solução:
+    Como solução para o problema, foi acordado com o cliente que minha equipe desenvolveria o VAPT, um aplicativo de uso exclusivo do docente, no qual ele poderia criar tarefas, controlar as entregas e     monitorar o desempenho da turma e dos alunos.
 
-  - **Cliente:** FATEC São José dos Campos
-  - **Área de atuação:** Educação
-  - **Professor responsável:** Giuliano Bertoti
+  - **Cliente**: FATEC São José dos Campos
+  - **Área de Atuação:** Educação superior tecnológica.
+  - **Professor responsável**: Giuliano Bertoti
 
   [GitHub do Projeto](https://github.com/BuzzTech-API/API_ADS_2SEMESTRE_2023.1)
 
   **Tecnologias utilizadas:**
-  - Java
-  - JavaFX + Scene Builder
-  - MySQL
+
+  - **MySQL**: Banco de dados relacional para armazenar informações de turmas, alunos e tarefas. Permite uma gestão eficiente dos dados com consultas, atualizações e exclusões estruturadas.
+  
+  - **Java**: Linguagem de programação base do projeto, responsável pela lógica do sistema. Amplamente usada por sua robustez e escalabilidade.
+  
+  - **JavaFX**: Framework para o desenvolvimento da interface gráfica (GUI), proporcionando uma experiência de usuário amigável e interativa.
+  
+  - **JavaFX Scene Builder**: Ferramenta visual que facilita a criação das telas do sistema, permitindo a organização intuitiva dos componentes da interface.
 
   **Contribuições pessoais:**
-  - Desenvolvimento do CRUD das entidades (como Aluno, Turma, Tarefa).
-  - Criação das interfaces gráficas utilizando JavaFX e Scene Builder.
-  - Conexão com banco de dados MySQL.
-  - Implementação de lógicas para validação dos dados e geração de relatórios.
 
-  **Hard Skills desenvolvidas:**
-  - Java (7/10)
-  - JavaFX (7/10)
-  - MySQL (8/10)
+  Atuei como desenvolvedora, implementando o CRUD (Create, Read, Update, Delete) das entidades do projeto, como "Aluno", utilizando MySQL. Também colaborei na configuração das telas usando JavaFX.
 
-  **Soft Skills desenvolvidas:**
-  - **Resiliência:** Superei desafios de entendimento inicial da integração entre backend e banco.
-  - **Trabalho em equipe:** Participei ativamente nas definições de regras de negócio e desenvolvimento conjunto das telas.
-  - **Organização:** Gerenciei minhas tarefas no Trello, mantendo um fluxo de desenvolvimento claro e organizado.
-  - **Comunicação:** Participei de reuniões frequentes para alinhamento de requisitos com a equipe e o cliente.
+ Aqui está a versão revisada com comentários sobre as hard skills desenvolvidas:
+
+**Contribuições pessoais:**
+
+Atuei como desenvolvedora, implementando o CRUD (Create, Read, Update, Delete) das entidades do projeto, como "Aluno", utilizando MySQL. Também colaborei na configuração das telas utilizando JavaFX, garantindo uma interface gráfica amigável e interativa.
+
+**Hard Skills desenvolvidas:**
+
+- **MySQL:** Utilizei este sistema de gerenciamento de banco de dados relacional para realizar operações de CRUD, garantindo o armazenamento e a manipulação eficiente dos dados de alunos e turmas. Desenvolvi consultas otimizadas, melhorando a performance nas operações de leitura e atualização dos registros.
+
+  Proficiência: 8/10.
+
+- **Java:** Apliquei Java na implementação da lógica do sistema, aproveitando sua robustez e versatilidade para desenvolver uma aplicação confiável e escalável. A programação orientada a objetos foi fundamental para organizar o código de forma modular e reutilizável.
+
+  Proficiência: 7/10.
+
+- **JavaFX:** Trabalhei com JavaFX para desenvolver a interface gráfica do projeto, proporcionando uma experiência de usuário dinâmica e visualmente atraente. Configurei componentes visuais e interações de forma eficiente, melhorando a usabilidade do sistema.
+
+  Proficiência: 7/10.
+
+- **JavaFX Scene Builder:** Usei o Scene Builder para criar e organizar visualmente as telas da aplicação, facilitando o desenvolvimento das interfaces gráficas. Essa ferramenta agilizou a criação das interfaces, permitindo um design mais intuitivo e reduzindo o tempo de codificação manual.
+
+  Proficiência: 7/10.
+
+
+**Soft Skills desenvolvidas:**
+
+- **Adaptabilidade:** Adaptei-me rapidamente às mudanças de prioridades e prazos, garantindo a continuidade do projeto mesmo diante de novos desafios.
+
+- **Resiliência:** Enfrentei desentendimentos com um integrante da equipe, mas mantive o foco no trabalho, buscando soluções construtivas e garantindo a entrega do projeto sem comprometer a qualidade.
+
+- **Trabalho em equipe:** Colaborei com a equipe, ajudando nas tarefas mais complexas e mantendo um espírito de cooperação, mesmo em momentos de tensão.
+
+- **Comunicação eficaz:** Mantive uma comunicação clara durante as reuniões, garantindo que todos estivessem alinhados e minimizando mal-entendidos.
+
 </details>
 
----
-
 <details>
+  
   <summary>Terceiro Semestre (2023-2)</summary>
-
+  
   ### API ADS 3º Semestre - Gestor de Projetos - Mirage Group
 
   <h2 align="center">Gestor de Projetos</h2>
+  Plataforma Desktop Web com foco na facilidade e dinamicidade dos processos burocráticos empresariais. O objetivo principal foi garantir uma interface simples e intuitiva para usuários com diferentes níveis de conhecimento técnico, otimizando o rendimento operacional e a experiência do usuário.
 
-  Plataforma web para gestão de processos regulatórios da empresa Ionic Health.
+ <h3>Desafio Proposto</h3>
 
-  - **Desafio Proposto:** A empresa necessitava de uma solução para centralizar e gerenciar seus processos regulatórios, melhorando rastreabilidade, controle de prazos e geração de evidências.
+A Ionic Health enfrentava dificuldades no rastreamento e na gestão eficiente de suas atividades, especialmente no que diz respeito ao cumprimento dos processos regulatórios. A empresa precisava de uma solução que centralizasse e organizasse essas informações de forma clara e acessível. O desafio proposto foi desenvolver uma plataforma web unificada, que permitisse à Ionic Health gerenciar, monitorar e documentar cada etapa dos processos regulatórios de maneira eficiente, garantindo maior conformidade e transparência nas operações.
 
-  - **Solução:** Desenvolvemos um sistema web que permite gerenciar processos, armazenar evidências e acompanhar prazos, com geração de relatórios.
 
-  - **Cliente:** Ionic Health
-  - **Área de atuação:** Tecnologia para saúde
-  - **Professores responsáveis:** Fernando Massanori e Cláudio de Lima
+ - Solução:
+Como solução, a equipe desenvolveu uma interface de usuário intuitiva e amigável, oferecendo fácil navegação pela plataforma e permitindo aos usuários gerenciar todos os seus processos regulatórios, monitorá-los em tempo real, documentar todas as etapas desses processos, acompanhar os prazos e gerar relatórios detalhados.
+ 
+  - **Cliente**: Ionic Health
+  - **Área de atuaçãoo**:A Ionic Health atua no setor de tecnologia para a saúde, oferecendo soluções inovadoras que viabilizam a assistência médica por meio da automação e integração de processos. A empresa desenvolve tecnologias remotas e plataformas de relatórios, proporcionando ferramentas eficientes para otimizar a gestão da saúde e melhorar a qualidade do atendimento médico.
 
-  [GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_3sem)
+  - **Professor responsável**: Fernando Massanori e Cláudio de Lima.
 
-  **Tecnologias utilizadas:**
-  - Node.js
-  - TypeScript
-  - React
-  - MySQL
+    [GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_3sem)
+    
+  **Tecnologias Utilizadas:**
+
+  - **Typescript**: Linguagem de programação que adiciona tipagem estática ao JavaScript, garantindo maior segurança e robustez no desenvolvimento da aplicação.
+  - **Node.js**: Plataforma de execução JavaScript utilizada para criar e gerenciar o servidor da aplicação, proporcionando uma base sólida para o backend.
+  - **MySQL**: Banco de dados relacional utilizado para armazenar de forma eficiente todas as informações sobre evidências, usuários e processos.
+  - **React**: Biblioteca JavaScript utilizada para desenvolver a interface do usuário, permitindo a criação de componentes reutilizáveis e estilizados, otimizando a experiência do usuário.
 
   **Contribuições pessoais:**
-  - Implementação de regras de negócio e validações no backend.
-  - Configuração e deploy do backend.
-  - Alinhamento dos dados entre frontend e backend.
-  - Testes de funcionalidades críticas e controle de integridade dos dados.
+
+  Participei da implementação de validações importantes no sistema, como na exclusão de dados e instâncias realizadas pelos usuários, garantindo a integridade das operações. Além disso, colaborei na configuração e no processo de deploy do servidor da API, auxiliando na sua correta subida e funcionamento.
 
   **Hard Skills desenvolvidas:**
-  - Node.js (7/10)
-  - TypeScript (8/10)
-  - React (6/10)
-  - MySQL (8/10)
 
-  **Soft Skills desenvolvidas:**
-  - **Colaboração:** Trabalhei junto ao responsável pela modelagem do banco para resolver inconsistências e garantir correto fluxo de dados para geração de relatórios.
-  - **Comunicação:** Organizei reuniões para discutir problemas críticos na exclusão de dados com dependências e alinhar soluções rapidamente.
-  - **Trabalho em equipe:** Atuei garantindo que os dados do backend estivessem alinhados com o que o frontend necessitava, solucionando problemas de integração.
-  - **Empatia:** Assumi demandas de revisão de código e testes quando colegas ficaram sobrecarregados.
+- **Node.js**: Utilizei o Node.js para desenvolver o backend da aplicação, aproveitando sua arquitetura orientada a eventos para criar sistemas escaláveis e eficientes.
+
+  Proficiência: 7/10.
+  
+- **TypeScript**: Trabalhei com TypeScript para adicionar tipagem estática ao código JavaScript, o que melhorou a segurança, a manutenção e a escalabilidade do projeto.
+
+  Proficiência: 8/10.
+  
+- **MySQL**: Usei MySQL na criação e gerenciamento de bancos de dados relacionais, permitindo realizar consultas e manipulações de dados de forma segura e eficiente.
+
+  Proficiência: 8/10.
+  
+- **React**: Utilizei React para desenvolver interfaces de usuário interativas, criando componentes reutilizáveis e gerenciando o estado das aplicações de forma eficaz.
+
+  Proficiência: 6/10.
+
+**Soft Skills desenvolvidas:**
+
+**Colaboração**: Trabalhei em um time muito unido, o que facilitou a troca de ideias e a cooperação nas tarefas. A boa relação com os colegas ajudou a criar um ambiente de trabalho leve e produtivo.
+
+**Comunicação eficaz**: No grupo anterior, enfrentei dificuldades relacionadas a brigas e desentendimentos, o que impactou negativamente a comunicação. No entanto, no novo grupo, consegui aplicar as lições aprendidas e melhorei significativamente minha capacidade de comunicação. Mantive um diálogo aberto e frequente com os colegas, resultando em alinhamentos mais rápidos e eficientes.
+
+**Trabalho em equipe**: A amizade com os integrantes do novo grupo permitiu que as discussões fossem mais fluídas, sem os conflitos do passado. Isso facilitou a resolução conjunta de problemas e a busca por soluções criativas para o projeto.
+
+**Empatia**: O ambiente de confiança mútua me ajudou a entender melhor as perspectivas dos outros membros, o que fortaleceu a cooperação e garantiu um trabalho harmonioso, sem os conflitos que haviam ocorrido anteriormente.
+
 </details>
-
----
 
 <details>
   <summary>Quarto Semestre (2024-1)</summary>
@@ -148,89 +192,124 @@ Minha experiência acadêmica foi enriquecida pela metodologia de Aprendizagem p
   ### API ADS 4º Semestre - Portal de Agendamento de Reuniões - Mirage Group
 
   <h2 align="center">Orca</h2>
+  O projeto desenvolvido durante o quarto semestre do curso teve como empresa parceira a SIATT. O desafio proposto foi desenvolver um portal que solucionasse os problemas de coordenação e agendamento de reuniões levando em consideração diferentes times, formatos (presencial, online, híbrido) e disponibilidades.
+  
+  - Desafio Proposto:
+A empresa precisava lidar com equipes cada vez maiores no contexto pós-pandemia e apresentava dificuldades para coordenar o agendamento de reuniões. A falta de uma plataforma unificada para o gerenciamento das reuniões resultava em desorganização e tempo excessivo gasto em processos manuais. O desafio proposto foi desenvolver um portal que solucionasse os problemas de coordenação e agendamento de reuniões levando em consideração diferentes times, formatos (presencial, online, hibrido) e disponibilidades.
 
-  Portal web para facilitar o agendamento e organização de reuniões, considerando diferentes times e formatos (presencial, online e híbrido).
+- Solução:
+A proposta de solução foi o desenvolvimento de um portal web intuitivo e funcional, capaz de agendar reuniões de diferentes categorias e em diferentes níveis de permissão, automatizando o processo e reduzindo o tempo gasto na atividade. Além disso, o portal oferece um formulário pré-preenchido para as atas, permitindo que os participantes registrem facilmente os pontos discutidos e as decisões tomadas durante o encontro.
 
-  - **Desafio Proposto:** A empresa SIATT enfrentava dificuldades no gerenciamento eficiente das agendas de reuniões, impactando na produtividade das equipes.
+  - **Cliente**: SIATT.
+  - **Área de Atuação**: A empresa se especializa na integração de sistemas de alta complexidade tecnológica, oferecendo soluções inovadoras para atender às demandas dos setores de defesa e aeroespacial. Com foco em eficiência e precisão, a empresa desenvolve e implementa tecnologias avançadas que suportam operações críticas e desafios estratégicos dessas indústrias.
 
-  - **Solução:** Desenvolvemos um portal web com funcionalidades de agendamento, organização de reuniões e geração de atas automáticas.
-
-  - **Cliente:** SIATT
-  - **Área de atuação:** Defesa e Aeroespacial
-  - **Professores responsáveis:** Fabiano Sabha e Juliana Pasquini
+  - **Professor responsável**: Fabiano Sabha e Juliana Pasquini.
 
   [GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_4sem)
 
-  **Tecnologias utilizadas:**
-  - React
-  - TailwindCSS
-  - Node.js
-  - TypeScript
-  - MySQL
+  **Tecnologias Utilizadas:**
 
-  **Contribuições pessoais:**
-  - Desenvolvimento das rotas no backend com Node.js.
-  - Criação da integração backend ↔ frontend.
-  - Criação do banco de dados e modelagem das entidades.
-  - Implementação das operações de CRUD de reuniões.
+  - **React**: Desenvolvimento da interface do usuário, garantindo interatividade e fluidez na navegação.
+  - **TailwindCSS**: Estilização rápida e eficiente para garantir uma interface responsiva e consistente.
+  - **TypeScript**: Implementação da lógica de interação na interface e integração com o backend.
+  - **NodeJS**: Desenvolvimento do backend e manipulação das rotas.
+  - **MySQL**: Banco de dados relacional para armazenar as informações das reuniões.
 
-  **Hard Skills desenvolvidas:**
-  - TypeScript (8/10)
-  - Node.js (8/10)
-  - React (7/10)
-  - TailwindCSS (6/10)
-  - MySQL (9/10)
+**Tecnologias Utilizadas:**
 
-  **Soft Skills desenvolvidas:**
-  - **Resiliência:** Superei a dissolução do grupo inicial após dois colegas trancarem a faculdade e me adaptei rapidamente ao retorno ao grupo anterior.
-  - **Adaptação rápida:** Me integrei às demandas do grupo anterior e retomei as atividades de forma produtiva e colaborativa.
-  - **Trabalho em equipe:** A sintonia prévia com o grupo facilitou a colaboração, divisão de tarefas e entrega do projeto com alta qualidade.
-  - **Empatia:** O acolhimento mútuo foi fundamental para manter um ambiente produtivo, respeitoso e com alto desempenho.
+- **React:** Desenvolvimento da interface do usuário, garantindo interatividade e fluidez na navegação.
+- **TailwindCSS:** Estilização rápida e eficiente para garantir uma interface responsiva e consistente.
+- **TypeScript:** Implementação da lógica de interação na interface e integração com o backend.
+- **NodeJS:** Desenvolvimento do backend e manipulação das rotas.
+- **MySQL:** Banco de dados relacional para armazenar as informações das reuniões.
+
+**Contribuições pessoais:**
+
+Atuei principalmente na parte de backend, implementando as funcionalidades que envolvem a comunicação entre o NodeJS e o banco de dados MySQL. Fui responsável por garantir que as rotas da aplicação estavam integradas corretamente com o banco de dados, permitindo a realização de operações de CRUD (Create, Read, Update, Delete) para as informações das reuniões. Trabalhei na otimização das queries para melhorar a eficiência nas operações e na configuração da estrutura de dados para garantir a integridade e a consistência das informações armazenadas.
+
+**Hard Skills desenvolvidas:**
+
+- **TypeScript:** Trabalhei com TypeScript para implementar a lógica de interação entre o frontend e o backend, lidando com requisições assíncronas e a manipulação de dados antes de enviá-los ao banco de dados.
+
+   Proficiência: 8/10.
+
+- **NodeJS:** Desenvolvi as rotas e a lógica do backend, permitindo a comunicação eficiente com o banco de dados. Embora eu tenha nível básico, consegui criar rotas que suportavam as funcionalidades da aplicação, como criar e deletar reuniões.
+
+  Proficiência: 8/10.
+
+- **MySQL:** Realizei operações de CRUD no banco de dados, focando na criação e gerenciamento das tabelas relacionadas às reuniões. Tive que otimizar algumas queries para garantir que a aplicação pudesse manipular os dados de forma eficiente.
+
+  Proficiência: 9/10.
+
+**Soft Skills desenvolvidas:**
+
+- **Resiliência:** No início do semestre, migrei para um novo grupo, mas, após dois integrantes trancarem a faculdade, o grupo se desfez. Apesar da situação inesperada, mantive o foco e retornei ao grupo do semestre anterior, onde fui bem recebida.
+
+- **Adaptação rápida:** A transição entre os grupos exigiu que eu me adaptasse rapidamente às novas dinâmicas, tanto ao integrar o novo grupo quanto ao retornar ao anterior, sem comprometer a qualidade do projeto.
+
+- **Trabalho em equipe:** Fui recebida de volta de forma acolhedora, o que facilitou a retomada da colaboração com o time. A proximidade com os integrantes do grupo anterior ajudou a manter um bom ambiente de trabalho.
+
+- **Empatia e confiança:** Minha experiência prévia com o grupo do semestre passado criou um clima de confiança mútua, o que facilitou a integração e o sucesso do projeto, além de fortalecer laços entre os colegas.
 
 </details>
-
----
 
 <details>
   <summary>Quinto Semestre (2024-2)</summary>
 
-  ### API ADS 5º Semestre - Aplicativo de Monitoramento Climático - Mirage Group
+### API ADS 5º Semestre - Aplicativo de Monitoramento Climático - Mirage Group
 
-  <h2 align="center">ClimaMonitor</h2>
+<h2 align="center">ClimaMonitor</h2>
 
-  Aplicativo mobile para produtores rurais monitorarem as condições climáticas de seus pontos de plantio, com alertas e gráficos.
+O projeto que está sendo desenvolvido durante o quinto semestre tem como empresa parceira a Kersys. O objetivo do ClimaMonitor é criar um aplicativo para auxiliar produtores rurais no acompanhamento do histórico de variações climáticas de suas lavouras. A aplicação permite que os usuários cadastrem pontos específicos para monitorar, visualizando gráficos de pluviometria e temperatura a partir de uma data informada até a data atual. Além disso, oferece dados consolidados por ano ou mês e emite alertas em situações climáticas críticas.
 
-  - **Desafio Proposto:** Os produtores rurais enfrentavam dificuldades para acompanhar as variações climáticas e seus impactos nas lavouras, sem acesso a dados consolidados.
+ - Desafio Proposto:
+O cliente enfrentava dificuldades significativas em fornecer aos produtores rurais uma forma eficaz de monitorar as condições climáticas em suas áreas de cultivo. As mudanças climáticas, que afetam diretamente a produtividade agrícola, tornaram-se um desafio crescente. O problema principal estava na falta de uma solução que permitisse o monitoramento em tempo real das variações climáticas, além da incapacidade de receber alertas sobre condições extremas que poderiam prejudicar as lavouras. O desafio consistia em criar uma plataforma que fornecesse dados precisos e atualizados, permitindo que os produtores tomassem decisões informadas para mitigar os impactos adversos do clima.
 
-  - **Solução:** Criamos um aplicativo mobile que permite cadastrar pontos no mapa e acompanhar gráficos de pluviometria e temperatura, além de emitir alertas sobre situações críticas.
+ - Solução:
+A proposta de solução foi o desenvolvimento de um aplicativo mobile que permite aos usuários cadastrar seus pontos e acompanhar via gráficos a variação da pluviometria e da temperatura, emitindo notificações e alertas em caso de situações críticas.
 
-  - **Cliente:** Kersys
-  - **Área de atuação:** Agronegócio
-  - **Professores responsáveis:** Gerson da Penha e Jean Costa
+- **Cliente**: Kersys
+- **Área de Atuação**: Desenvolvimento de soluções de software de gestão focadas nas áreas florestais e do agronegócio, oferecendo ferramentas inovadoras para otimizar processos, aumentar a produtividade e melhorar a sustentabilidade desses setores.</p>
 
-  [GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_5_Semestre)
+- **Professor responsável**: Gerson da Penha e Jean Costa
 
-  **Tecnologias utilizadas:**
-  - Node.js
-  - TypeScript
-  - React Native
-  - Firebase
+[GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_5_Semestre)
 
-  **Contribuições pessoais:**
-  - Desenvolvimento da Navbar e ajustes nos cards da interface.
-  - Implementação da funcionalidade de cadastro de pontos via mapa (geolocalização).
-  - Criação e ajuste de endpoints no backend em Node.js.
-  - Integração com Firebase para armazenamento e notificações.
-  - Modelagem dos dados no Firestore, garantindo persistência e integridade.
+**Tecnologias Utilizadas:**
 
-  **Hard Skills desenvolvidas:**
-  - Node.js (8/10)
-  - TypeScript (8/10)
-  - React Native (8/10)
-  - Firebase (7/10)
+- **TypeScript**: Tipagem estática para garantir segurança e robustez no código.
+- **Node.js**: Desenvolvimento do backend e integração com o banco de dados.
+- **React Native**: Interface do usuário para dispositivos móveis.
+- **Firebase**: Armazenamento de dados e sistema de notificações em tempo real.
 
-  **Soft Skills desenvolvidas:**
-  - **Trabalho em equipe:** Mantive alinhamento constante com a equipe, facilitando a divisão de tarefas e a integração entre frontend, backend e banco de dados.
-  - **Gestão de tempo:** Organizei minha rotina para lidar com o semestre mais desafiador, conciliando o projeto, as matérias e o estágio na Embraer.
-  - **Adaptabilidade:** Atuei em frontend, backend e banco de dados, além de me readaptar ao retorno ao grupo anterior, mantendo a produtividade e a entrega de qualidade.
+**Contribuições pessoais:**
+
+Estou responsável por implementar a **Navbar**, realizar alterações nos **cards**, além de desenvolver a funcionalidade que permite aos usuários marcar novos pontos diretamente no mapa.
+
+**Hard Skills desenvolvidas:**
+
+- **TypeScript**: Utilizo TypeScript para melhorar a manutenção e a segurança do código, assegurando que os dados trafeguem de forma precisa entre as camadas.
+
+  Proficiência: 8/10
+
+- **React Native**: Desenvolvo a interface do usuário com React Native, criando uma experiência fluida e responsiva em dispositivos móveis.
+
+  Proficiência: 8/10
+
+- **Firebase**: Uso Firebase para armazenar dados e configurar as notificações automáticas, garantindo o recebimento de alertas climáticos pelos usuários.
+
+  Proficiência: 7/10
+
+- **Node.js**: Trabalho na integração do frontend com o backend, utilizando Node.js para garantir a comunicação eficiente com o banco de dados.
+
+  Proficiência: 8/10
+
+**Soft Skills desenvolvidas:**
+
+- **Trabalho em equipe**: A relação com os integrantes do grupo está sendo muito positiva, o que facilita a comunicação e colaboração. Após retornar ao grupo do semestre anterior, fui bem recebida, graças à amizade e confiança estabelecidas previamente.
+
+- **Gestão de tempo**: Conciliar o projeto com o estágio e os compromissos acadêmicos está sendo um grande desafio, principalmente neste semestre, que é o mais difícil até agora. Além das matérias exigirem um esforço significativo, o estágio tem me ensinado muito, mas também tem gerado exaustão devido à carga de trabalho. Mesmo com o cansaço, venho aplicando técnicas de priorização de tarefas e organização para conseguir dar conta da rotina intensa, mantendo um ritmo produtivo e focado.
+
+- **Adaptabilidade**: Mudar de área, atuando no frontend, exige uma rápida adaptação e aprendizado. Além disso, preciso lidar com as mudanças de grupo e manter a produtividade ao retornar ao time anterior.
+
 </details>
