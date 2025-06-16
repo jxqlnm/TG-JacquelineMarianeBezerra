@@ -309,8 +309,13 @@ Estou responsável por implementar a **Navbar**, realizar alterações nos **car
 - **Adaptabilidade**: Mudar de área, atuando no frontend, exige uma rápida adaptação e aprendizado. Além disso, preciso lidar com as mudanças de grupo e manter a produtividade ao retornar ao time anterior.
 
 </details>
-<details> <summary>Sexto Semestre (Maio/2025)</summary>
+
+
+<details>
+  <summary>Quinto Semestre (2024-2)</summary>
+
 ### API ADS 6º Semestre – Avaliação de Respostas de LLMs – DOM Rock
+
 <h2 align="center">DOM Rock</h2>
 
 Empresa: DOM Rock
