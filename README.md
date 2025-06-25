@@ -84,8 +84,6 @@ O professor enfrentava dificuldades no gerenciamento das turmas e no acompanhame
 
   Atuei como desenvolvedora, implementando o CRUD (Create, Read, Update, Delete) das entidades do projeto, como "Aluno", utilizando MySQL. Também colaborei na configuração das telas usando JavaFX.
 
- Aqui está a versão revisada com comentários sobre as hard skills desenvolvidas:
-
 **Contribuições pessoais:**
 
 Atuei como desenvolvedora, implementando o CRUD (Create, Read, Update, Delete) das entidades do projeto, como "Aluno", utilizando MySQL. Também colaborei na configuração das telas utilizando JavaFX, garantindo uma interface gráfica amigável e interativa.
