@@ -80,10 +80,6 @@ O professor enfrentava dificuldades no gerenciamento das turmas e no acompanhame
   
   - **JavaFX Scene Builder**: Ferramenta visual que facilita a criação das telas do sistema, permitindo a organização intuitiva dos componentes da interface.
 
-  **Contribuições pessoais:**
-
-  Atuei como desenvolvedora, implementando o CRUD (Create, Read, Update, Delete) das entidades do projeto, como "Aluno", utilizando MySQL. Também colaborei na configuração das telas usando JavaFX.
-
 **Contribuições pessoais:**
 
 Atuei como desenvolvedora, implementando o CRUD (Create, Read, Update, Delete) das entidades do projeto, como "Aluno", utilizando MySQL. Também colaborei na configuração das telas utilizando JavaFX, garantindo uma interface gráfica amigável e interativa.
@@ -92,19 +88,14 @@ Atuei como desenvolvedora, implementando o CRUD (Create, Read, Update, Delete) d
 
 - **MySQL:** Utilizei este sistema de gerenciamento de banco de dados relacional para realizar operações de CRUD, garantindo o armazenamento e a manipulação eficiente dos dados de alunos e turmas. Desenvolvi consultas otimizadas, melhorando a performance nas operações de leitura e atualização dos registros.
 
-  Proficiência: 8/10.
 
 - **Java:** Apliquei Java na implementação da lógica do sistema, aproveitando sua robustez e versatilidade para desenvolver uma aplicação confiável e escalável. A programação orientada a objetos foi fundamental para organizar o código de forma modular e reutilizável.
 
-  Proficiência: 7/10.
-
 - **JavaFX:** Trabalhei com JavaFX para desenvolver a interface gráfica do projeto, proporcionando uma experiência de usuário dinâmica e visualmente atraente. Configurei componentes visuais e interações de forma eficiente, melhorando a usabilidade do sistema.
-
-  Proficiência: 7/10.
 
 - **JavaFX Scene Builder:** Usei o Scene Builder para criar e organizar visualmente as telas da aplicação, facilitando o desenvolvimento das interfaces gráficas. Essa ferramenta agilizou a criação das interfaces, permitindo um design mais intuitivo e reduzindo o tempo de codificação manual.
 
-  Proficiência: 7/10.
+ 
 
 
 **Soft Skills desenvolvidas:**
@@ -158,19 +149,17 @@ Como solução, a equipe desenvolveu uma interface de usuário intuitiva e amig�
 
 - **Node.js**: Utilizei o Node.js para desenvolver o backend da aplicação, aproveitando sua arquitetura orientada a eventos para criar sistemas escaláveis e eficientes.
 
-  Proficiência: 7/10.
+  
   
 - **TypeScript**: Trabalhei com TypeScript para adicionar tipagem estática ao código JavaScript, o que melhorou a segurança, a manutenção e a escalabilidade do projeto.
 
-  Proficiência: 8/10.
   
 - **MySQL**: Usei MySQL na criação e gerenciamento de bancos de dados relacionais, permitindo realizar consultas e manipulações de dados de forma segura e eficiente.
 
-  Proficiência: 8/10.
   
 - **React**: Utilizei React para desenvolver interfaces de usuário interativas, criando componentes reutilizáveis e gerenciando o estado das aplicações de forma eficaz.
 
-  Proficiência: 6/10.
+
 
  **Soft Skills desenvolvidas:**
   - **Comunicação:** Enfrentei dificuldades na migração de Java para TypeScript, demandando alinhamento de conceitos e padrões.
@@ -225,15 +214,12 @@ Atuei principalmente na parte de backend, implementando as funcionalidades que e
 
 - **TypeScript:** Trabalhei com TypeScript para implementar a lógica de interação entre o frontend e o backend, lidando com requisições assíncronas e a manipulação de dados antes de enviá-los ao banco de dados.
 
-   Proficiência: 8/10.
 
 - **NodeJS:** Desenvolvi as rotas e a lógica do backend, permitindo a comunicação eficiente com o banco de dados. Embora eu tenha nível básico, consegui criar rotas que suportavam as funcionalidades da aplicação, como criar e deletar reuniões.
 
-  Proficiência: 8/10.
 
 - **MySQL:** Realizei operações de CRUD no banco de dados, focando na criação e gerenciamento das tabelas relacionadas às reuniões. Tive que otimizar algumas queries para garantir que a aplicação pudesse manipular os dados de forma eficiente.
-
-  Proficiência: 9/10.
+ 
 
 **Soft Skills desenvolvidas:**
 
@@ -292,19 +278,14 @@ A proposta de solução foi o desenvolvimento de um aplicativo mobile que permit
 
 - **TypeScript**: Utilizo TypeScript para melhorar a manutenção e a segurança do código, assegurando que os dados trafeguem de forma precisa entre as camadas.
 
-  Proficiência: 8/10
 
 - **React Native**: Desenvolvo a interface do usuário com React Native, criando uma experiência fluida e responsiva em dispositivos móveis.
 
-  Proficiência: 8/10
-
 - **Firebase**: Uso Firebase para armazenar dados e configurar as notificações automáticas, garantindo o recebimento de alertas climáticos pelos usuários.
 
-  Proficiência: 7/10
 
 - **Node.js**: Trabalho na integração do frontend com o backend, utilizando Node.js para garantir a comunicação eficiente com o banco de dados.
 
-  Proficiência: 8/10
 
 **Soft Skills desenvolvidas:**
 
@@ -381,7 +362,7 @@ Desenvolvemos uma plataforma SPA em Vue.js que:
 
 Como Scrum Master pela primeira, realizei os sequintes desafios:
 
-- Organizei e mantive o Product Backlog e o Sprint Backlog no Jira, garantindo clareza nas prioridades e visibilidade do progresso.
+- Apoiei o Product Owner na organização e manutenção do Product Backlog e do Sprint Backlog, garantindo clareza nas prioridades e visibilidade do progresso.
 
 - Configurei o Burndown Chart e apresentei relatórios semanais à equipe, permitindo ajustes rápidos no planejamento.
 
@@ -389,7 +370,9 @@ Como Scrum Master pela primeira, realizei os sequintes desafios:
 
 - Conduzi cerimônias ágeis (Daily, Sprint Planning, Review e Retrospective), removendo impedimentos e mediando conflitos para manter o time alinhado.
 
- - Intervim tecnicamente em momentos críticos (hotfixes e pair programming), garantindo que bloqueios não atrasassem a sprint.
+- Atuei apoiando a conexão do sistema a grandes modelos de linguagem (LLMs), colaborando no gerenciamento de escopo, definição de tom e integração com a aplicação.
+
+- Auxiliei na implementação da funcionalidade de RAG (Recuperação Aumentada com Geração), participando da instanciação do banco vetorial com persistência dos dados e do desenvolvimento de prompts otimizados por meio de engenharia de prompt.
 
 - Facilitiei a comunicação entre desenvolvimento, QA e stakeholders, promovendo transparência e construção de consenso.
 
@@ -397,13 +380,15 @@ Como Scrum Master pela primeira, realizei os sequintes desafios:
 
 **Hard Skills Desenvolvidas**
 
-Python: Linguagem principal no backend, valorizada pela simplicidade e poder em IA. (Uso com ajuda para auxílio em momentos críticos.) 9/10
+LangChain: Aprendi a usar o framework para orquestrar fluxos de chamadas a LLMs e ajudei desenvolvedores na criação e gestão de pipelines de inferência.
 
-Vue.js: Framework JavaScript progressivo para construir interfaces interativas e responsivas. (Uso com ajuda para auxílio em momentos críticos.) 7/10
+FastAPI: Aprendi a implementar endpoints RESTful com FastAPI e ajudei a equipe na exposição de microserviços de inferência e integração de dados.
 
-MongoDB: Banco de dados NoSQL para armazenar informações estruturadas e semiestruturadas do sistema. (Uso com ajuda para auxílio em momentos críticos.) 9/10
+Groq: Aprendi a integrar o acelerador Groq ao pipeline de LLMs e ajudei a otimizar desempenho, reduzindo latências.
 
-LangChain: Framework para orquestrar e integrar modelos de linguagem com outras fontes de dados e ferramentas externas. (Uso com ajuda para auxílio em momentos críticos.) 7/10
+ChromaDB: Aprendi a modelar coleções e a persistir vetores semânticos, além de ajudar na recuperação eficiente de embeddings em pipelines de RAG.
+
+Python: Aprendi a desenvolver aplicações orientadas a objetos, consumir APIs externas e ajudei na aplicação de padrões de projeto em soluções de IA.
 
 **Soft Skills desenvolvidas:**
 
