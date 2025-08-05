@@ -5,11 +5,13 @@
 </div>
 
 ## Sobre mim
-Meu nome é Jacqueline Mariane Bezerra, tenho 25 anos e estou no 6º semestre de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal. Minha paixão por tecnologia começou em 2017, durante a Semana Nacional de Ciência e Tecnologia (SNCT), no evento "Portas Abertas: A Matemática está em Tudo", onde atuei como apresentadora e desenvolvedora de um aplicativo mobile.
+Desenvolvedora Frontend com experiência em aplicações web modernas utilizando React, Next.js, TypeScript e GraphQL. Atuo com testes automatizados (Jest, Testing Library, Cypress), pipelines de CI/CD (Docker, GitHub Actions), e versionamento em ambientes AWS e Azure DevOps. Possuo vivência com dados meteorológicos, mapas interativos (Leaflet), automações com Python e integrações com Salesforce e SAP. Focada em clean code, performance e colaboração em equipes ágeis.
 
-Iniciei minha carreira em 2018 como estagiária de QA na DIMEP Sistemas, onde testei, analisei e validei funcionalidades do produto D-SAT até 2020. Desde agosto de 2023 atuo como estagiária de Desenvolvimento Full Stack na Embraer, colaborando no projeto ONEPLACE SRE. Lá, desenvolvo microsserviços em NestJS/Node.js com TypeScript e Prisma ORM sobre PostgreSQL, crio e testo APIs RESTful via Postman, e configuro pipelines de CI/CD no Azure DevOps. No front-end, implemento telas em React usando React Hook Form, Zod e i18next para validação e internacionalização. Também construo automações em Python e Azure Functions, integrando Salesforce, SAP S/4HANA e Automation Anywhere, e garanto cobertura de testes com Jest e Cypress. Além disso, otimizo planilhas e sistemas internos, prestando suporte como interface entre equipes de produto, QA e operações.
+Meu nome é Jacqueline Mariane Bezerra, tenho 25 anos e me formei em Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal. Minha paixão por tecnologia começou em 2017, durante a Semana Nacional de Ciência e Tecnologia (SNCT), onde atuei como apresentadora e desenvolvedora de um aplicativo mobile.
 
-Minha formação na FATEC São José dos Campos, pautada em Aprendizagem por Projetos Integrados, me levou a colaborar com empresas reais desde o 3º semestre, consolidando uma vivência prática que aprimora minhas skills técnicas e fortalece minha comunicação, gestão de tempo e trabalho em equipe.
+Iniciei minha carreira em 2018 como QA na DIMEP Sistemas, evoluindo para Desenvolvimento Full Stack na Embraer e atualmente atuando como Desenvolvedora Frontend na Climatempo. Durante minha trajetória, desenvolvi microsserviços em NestJS/Node.js com TypeScript, implementei interfaces modernas em React/Next.js, configurei pipelines de CI/CD, e construí automações integrando Salesforce, SAP S/4HANA e outras plataformas corporativas.
+
+Minha formação na FATEC, baseada em Aprendizagem por Projetos Integrados, me proporcionou experiência prática colaborando com empresas reais, consolidando skills técnicas e fortalecendo competências em comunicação, gestão de tempo e trabalho em equipe.
 
 ## Contatos
 
@@ -19,41 +21,77 @@ Minha formação na FATEC São José dos Campos, pautada em Aprendizagem por Pro
 <a href="https://www.linkedin.com/in/jacquelinebezerra/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-## Meus Principais Conhecimentos
+## 🚀 Tech Stack
 
-### Backend
-- Python
-- Node.js
-- Java
-- JavaFX
-- Typescript
-- SQL
-- Automation Anywhere
+### Frontend Development
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+</div>
 
-### Frontend
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-- React
+### Backend & APIs
+<div align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/>
+</div>
 
-### Banco de Dados
-- MongoDB
-- SQL
+### Testing & Quality
+<div align="left">
+  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" alt="Testing Library"/>
+</div>
 
-### Outras Tecnologias
-- Power Apps
-- Power Platform
-- Power Automate
+### DevOps & Cloud
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
+</div>
 
-## Meus Projetos
+### Databases
+<div align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</div>
+
+### Tools & Integrations
+<div align="left">
+  <img src="https://img.shields.io/badge/Salesforce-00D1FF?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP"/>
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" alt="Leaflet"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jxqlnm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxqlnm&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxqlnm&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+## 💼 Meus Projetos
 
 <details>
-  <summary>Segundo Semestre (2023-1)</summary>
+  <summary><strong>🎓 2º Semestre (2023-1) - Sistema Educacional</strong></summary>
 
-  ### API ADS 2º Semestre - Software Rendimento Escolar - Buzz Tech
+  ### 📚 API ADS 2º Semestre - Software Rendimento Escolar - Buzz Tech
 
-  <h2 align="center">VAPT</h2>
+  <h2 align="center">🎯 VAPT</h2>
   Programa Desktop em Java para automatizar o controle de atividades avaliativas para professores de uma escola estadual.
   
   <h3>Desafio Proposto</h3>
@@ -112,11 +150,11 @@ Atuei como desenvolvedora, implementando o CRUD (Create, Read, Update, Delete) d
 
 <details>
   
-  <summary>Terceiro Semestre (2023-2)</summary>
+  <summary><strong>⚕️ 3º Semestre (2023-2) - Saúde & Regulatório</strong></summary>
   
-  ### API ADS 3º Semestre - Gestor de Projetos - Mirage Group
+  ### 🏥 API ADS 3º Semestre - Gestor de Projetos - Mirage Group
 
-  <h2 align="center">Gestor de Projetos</h2>
+  <h2 align="center">📋 Gestor de Projetos</h2>
   Plataforma Desktop Web com foco na facilidade e dinamicidade dos processos burocráticos empresariais. O objetivo principal foi garantir uma interface simples e intuitiva para usuários com diferentes níveis de conhecimento técnico, otimizando o rendimento operacional e a experiência do usuário.
 
  <h3>Desafio Proposto</h3>
@@ -170,11 +208,11 @@ Como solução, a equipe desenvolveu uma interface de usuário intuitiva e amig�
 </details>
 
 <details>
-  <summary>Quarto Semestre (2024-1)</summary>
+  <summary><strong>🚀 4º Semestre (2024-1) - Aeroespacial & Defesa</strong></summary>
 
-  ### API ADS 4º Semestre - Portal de Agendamento de Reuniões - Mirage Group
+  ### ✈️ API ADS 4º Semestre - Portal de Agendamento de Reuniões - Mirage Group
 
-  <h2 align="center">Orca</h2>
+  <h2 align="center">🐋 Orca</h2>
   O projeto desenvolvido durante o quarto semestre do curso teve como empresa parceira a SIATT. O desafio proposto foi desenvolver um portal que solucionasse os problemas de coordenação e agendamento de reuniões levando em consideração diferentes times, formatos (presencial, online, híbrido) e disponibilidades.
   
   - Desafio Proposto:
@@ -234,11 +272,11 @@ Atuei principalmente na parte de backend, implementando as funcionalidades que e
 </details>
 
 <details>
-  <summary>Quinto Semestre (2024-2)</summary>
+  <summary><strong>🌱 5º Semestre (2024-2) - Agronegócio & IoT</strong></summary>
 
-### API ADS 5º Semestre - Aplicativo de Monitoramento Climático - Mirage Group
+### 🌾 API ADS 5º Semestre - Aplicativo de Monitoramento Climático - Mirage Group
 
-<h2 align="center">ClimaMonitor</h2>
+<h2 align="center">🌤️ ClimaMonitor</h2>
 
 O projeto que está sendo desenvolvido durante o quinto semestre tem como empresa parceira a Kersys. O objetivo do ClimaMonitor é criar um aplicativo para auxiliar produtores rurais no acompanhamento do histórico de variações climáticas de suas lavouras. A aplicação permite que os usuários cadastrem pontos específicos para monitorar, visualizando gráficos de pluviometria e temperatura a partir de uma data informada até a data atual. Além disso, oferece dados consolidados por ano ou mês e emite alertas em situações climáticas críticas.
 
@@ -299,11 +337,11 @@ A proposta de solução foi o desenvolvimento de um aplicativo mobile que permit
 
 
 <details>
-  <summary>Sexto semestre (2025-1)</summary>
+  <summary><strong>🤖 6º Semestre (2025-1) - Inteligência Artificial</strong></summary>
 
-### API ADS 6º Semestre – Avaliação de Respostas de LLMs – DOM Rock
+### 🧠 API ADS 6º Semestre – Avaliação de Respostas de LLMs – DOM Rock
 
-<h2 align="center">DOM Rock</h2>
+<h2 align="center">🚀 DOM Rock AI Platform</h2>
 
 Empresa: DOM Rock
 
@@ -401,3 +439,37 @@ Equilibrar as demandas do TG, estágio na Embraer e disciplinas acadêmicas exig
 - **Adaptabilidade**:
 Engajei-me profundamente na mudança de área no 5º semestre e, ao final do 6º, migrei de estagiária na Embraer para Desenvolvedora Júnior III na Climatempo, demonstrando flexibilidade, aprendizado acelerado e capacidade de adaptação a novos desafios e ambientes de trabalho.
 
+
+---
+
+## 🏆 Conquistas e Evolução
+
+<div align="center">
+
+### 📈 Trajetória Profissional
+```
+2018-2020: QA Engineer (DIMEP Sistemas)
+    ↓
+2023-2024: Full Stack Developer (Embraer)
+    ↓
+2025: Frontend Developer Jr III (Climatempo)
+```
+
+### 🎯 Especialização Atual
+**Frontend Development** • **React Ecosystem** • **TypeScript** • **Performance Optimization**
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "Code is poetry written in logic"
+
+**Sempre em busca de código limpo, performance otimizada e experiências excepcionais para o usuário.**
+
+<br/>
+
+⭐ **Obrigada por visitar meu portfólio!** ⭐
+
+</div>
